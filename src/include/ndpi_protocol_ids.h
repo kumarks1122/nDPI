@@ -281,7 +281,9 @@ typedef enum {
   NDPI_PROTOCOL_WHATSAPP_FILES        = 242, /* Videos, pictures, voice messages... */
   NDPI_PROTOCOL_SNAPDEAL              = 243, /* Kumar Kandasamy <kumarks1122@gmail.com> */
   NDPI_PROTOCOL_FLIPKART              = 244, /* Kumar Kandasamy <kumarks1122@gmail.com> */
-  NDPI_PROTOCOL_HOTSTAR               = 245, /* Kumar Kandasamy <kumarks1122@gmail.com> */
+  NDPI_PROTOCOL_EKSTEP                = 245, /* Kumar Kandasamy <kumarks1122@gmail.com> */
+  NDPI_PROTOCOL_DIKSHA                = 246, /* Kumar Kandasamy <kumarks1122@gmail.com> */
+  NDPI_PROTOCOL_HOTSTAR               = 247, /* Kumar Kandasamy <kumarks1122@gmail.com> */
   /*
     IMPORTANT
     before allocating a new identifier please fill up

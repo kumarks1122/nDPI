@@ -8421,6 +8421,9 @@ ndpi_protocol_match host_match[] = {
 
   { "flipkart.", NULL, NULL,                              "Flipkart",           NDPI_PROTOCOL_FLIPKART, NDPI_PROTOCOL_CATEGORY_WEB, NDPI_PROTOCOL_SAFE },
 
+  { "ekstep.", NULL, NULL,                              "Ekstep",           NDPI_PROTOCOL_EKSTEP, NDPI_PROTOCOL_CATEGORY_WEB, NDPI_PROTOCOL_SAFE },
+  { "diksha.", NULL, NULL,                              "Diksha",           NDPI_PROTOCOL_DIKSHA, NDPI_PROTOCOL_CATEGORY_WEB, NDPI_PROTOCOL_SAFE },
+
   { "hotstar.", NULL, NULL,                              "Hotstar",           NDPI_PROTOCOL_HOTSTAR, NDPI_PROTOCOL_CATEGORY_MEDIA, NDPI_PROTOCOL_FUN },
 
   { NULL, NULL, NULL, 0 }
